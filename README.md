@@ -1,2 +1,2 @@
 # GitHubSearcher
- Change it to your API ! The serach Quer is "sk-" + 48 parts
+ Change it to your API ! The serach Query is "sk-" + 48 parts
